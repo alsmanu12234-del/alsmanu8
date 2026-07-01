@@ -1,0 +1,26 @@
+[
+  {
+    "id": "195a6cef-8a48-4234-8c0b-5871b16a4410",
+    "name": "120363408534017954@newsletter → ....",
+    "sources": [
+      "120363408534017954@newsletter"
+    ],
+    "destination": "120363430490061370@g.us",
+    "blockLinks": true,
+    "noForward": true,
+    "enabled": true,
+    "createdAt": "2026-07-01T12:05:18.559Z"
+  },
+  {
+    "id": "71e51ade-263c-44d7-b3fa-b1c931ad3c81",
+    "name": "120363408534017954@newsletter → 👤 +249127843480",
+    "sources": [
+      "120363408534017954@newsletter"
+    ],
+    "destination": "249127843480@s.whatsapp.net",
+    "blockLinks": true,
+    "noForward": true,
+    "enabled": true,
+    "createdAt": "2026-07-01T13:32:43.055Z"
+  }
+]
